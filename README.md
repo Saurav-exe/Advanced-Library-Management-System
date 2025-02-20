@@ -16,7 +16,7 @@ This project implements an advanced Library Management System using Java, Java S
 
 ## File Structure
 
-LibraryManagementSystem/
+/*LibraryManagementSystem/
 ├── src/
 │   ├── models/           # Entity classes (Book, User, Transaction)
 │   │   ├── Book.java
@@ -43,4 +43,4 @@ LibraryManagementSystem/
 ├── resources/
 │   ├── schema.sql        # MySQL schema for database setup
 │   ├── technical_books.csv # Book data file (example)
-├── README.md
+├── README.md*/
