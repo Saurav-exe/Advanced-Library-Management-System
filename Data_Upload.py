@@ -4,10 +4,10 @@ import csv
 # Database connection details
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASSWORD = "Password"
-DB_NAME = "OOPS"
-TABLE_NAME = "books"
-CSV_FILE = r"C:\Users\Nilesh\OneDrive\Desktop\library app\technical_books (1).csv"
+DB_PASSWORD = " " #Enter Your password here
+DB_NAME = "OOPS" #Create a Database called OOPS or Change DB_NAME to desired 
+TABLE_NAME = "books" #Create a Table called books or Change Table_name to desired
+CSV_FILE = r" " #Enter the path of your file
 
 
 connection = pymysql.connect(
